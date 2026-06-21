@@ -1,0 +1,19 @@
+{
+  "gameId": "g1008",
+  "gameTitle": "Bed Wars",
+  "gameCoverPic": "https://maszxgocdn.netlify.app/game-icons/g1008.png",
+  "gameBannerPic": "https://maszxgocdn.netlify.app/game-banners/g1008.png",
+  "gameTypes": ["PVP"],
+  "isUgcGame": 1,
+  "isRecommended": true,
+  "onlineNumber": 0,
+  "visitorEnter": 0,
+  "praiseNumber": 0,
+  "likeCount": 0,
+  "engineVersion": 10039,
+  "resVersion": 10039,
+  "mapName": "g1008",
+  "details": {
+    "description": "Fight against other teams and destroy their beds."
+  }
+}
